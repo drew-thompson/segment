@@ -14,12 +14,12 @@ When installation completes, select _Segment Dark_ as your color theme (File →
 
 ### Typescript
 
-![Typescript Preview](themes/images/ts.png 'Typescript Preview')
+![Typescript Preview](./themes/images/ts.png 'Typescript Preview')
 
 ### SCSS
 
-![SCSS Preview](themes/images/scss.png 'SCSS Preview')
+![SCSS Preview](./themes/images/scss.png 'SCSS Preview')
 
 ### HTML
 
-![HTML Preview](themes/images/html.png 'HTML Preview')
+![HTML Preview](./themes/images/html.png 'HTML Preview')
