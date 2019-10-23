@@ -1,0 +1,23 @@
+{
+    "name": "segment-dark-theme",
+    "icon": "https://imgur.com/a/oZ2XtSG",
+    "displayName": "Segment Dark Theme",
+    "description": "A dark editor theme using Segment.io's color palette.",
+    "version": "0.0.1",
+    "publisher": "drew-thompson",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Segment Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/segment-dark-color-theme.json"
+            }
+        ]
+    }
+}

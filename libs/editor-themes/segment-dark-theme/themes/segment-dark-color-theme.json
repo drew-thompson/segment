@@ -1,0 +1,61 @@
+{
+	"name": "Segment Dark",
+	"type": "dark",
+	"include": "./dark_plus.json",
+	"colors": {
+		// Activity Bar
+		"activityBar.background": "#425A70",
+		"activityBar.foreground": "#F9F9FB",
+		"activityBar.inactiveForeground": "#C7CED4",
+		"activityBar.border": "#425A70",
+		"activityBar.dropBackground": "#f9f9fb3a",
+		"activityBarBadge.background": "#47B881",
+		"activityBarBadge.foreground": "#F9F9FB",
+		//  Badge
+		"badge.background": "#66788A",
+		"badge.foreground": "#F9F9FB",
+		// Breadcrumb
+		"breadcrumb.activeSelectionForeground": "#F5F6F7",
+		"breadcrumb.background": "#234361",
+		"breadcrumb.focusForeground": "#EDF0F2",
+		"breadcrumb.foreground": "#C7CED4",
+		"breadcrumbPicker.background": "#234361",
+		// Button
+		"button.background": "#66788A",
+		"button.foreground": "#F5F6F7",
+		"button.hoverBackground": "#7B8B9A",
+		// Checkbox
+		"checkbox.background": "#234361",
+		"checkbox.border": "#234361",
+		"checkbox.foreground": "#F5F6F7",
+		// Editor
+		"editor.background": "#0d2236", // Find shade darker than palette limits
+		// Git Decorations
+		"gitDecoration.addedResourceForeground": "#ff0000",
+		"gitDecoration.untrackedResourceForeground": "#47B881",
+		"gitDecoration.modifiedResourceForeground": "#FBE6A2",
+		// Sidebar
+		"sideBarTitle.foreground": "#C7CED4",
+		"sideBar.background": "#234361",
+		"sideBar.border": "#234361",
+		"sideBar.dropBackground": "#ff0000",
+		"sideBar.foreground": "#E4E7EB",
+		"sideBarSectionHeader.background": "#425A70",
+		"sideBarSectionHeader.border": "#234361",
+		"sideBarSectionHeader.foreground": "#F9F9FB",
+		// Scrollbar
+		"scrollbarSlider.background": "#425a70ca",
+		"scrollbar.shadow": "#425a70d5",
+		"scrollbarSlider.activeBackground": "#425a70",
+		"scrollbarSlider.hoverBackground": "#425a70da",
+		// Status Bar
+		"statusBar.background": "#47B881",
+		"statusBar.foreground": "#F9F9FB",
+		// Tab
+		"tab.activeBackground": "#234361",
+		"tab.inactiveBackground": "#425A70",
+		// Warnings
+		"editorWarning.foreground": "#D9822B",
+		"list.warningForeground": "#D9822B"
+	}
+}
