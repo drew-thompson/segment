@@ -14,12 +14,12 @@ When installation completes, select _Segment Dark_ as your color theme (File →
 
 ### Typescript
 
-![Typescript Preview]('https://raw.githubusercontent.com/drew-thompson/segment/master/libs/editor-themes/segment-dark-theme/themes/images/ts.png' 'Typescript Preview')
+![Typescript Preview]('/libs/editor-themes/segment-dark-theme/themes/images/ts.png' 'Typescript Preview')
 
 ### SCSS
 
-![SCSS Preview]('https://raw.githubusercontent.com/drew-thompson/segment/master/libs/editor-themes/segment-dark-theme/themes/images/scss.png' 'SCSS Preview')
+![SCSS Preview]('/libs/editor-themes/segment-dark-theme/themes/images/scss.png' 'SCSS Preview')
 
 ### HTML
 
-![HTML Preview]('https://raw.githubusercontent.com/drew-thompson/segment/master/libs/editor-themes/segment-dark-theme/themes/images/html.png' 'HTML Preview')
+![HTML Preview]('/libs/editor-themes/segment-dark-theme/themes/images/html.png' 'HTML Preview')
