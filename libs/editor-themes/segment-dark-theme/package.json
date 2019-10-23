@@ -3,7 +3,7 @@
     "icon": "segment.png",
     "displayName": "Segment Dark Theme",
     "description": "A dark editor theme using Segment.io's color palette.",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "publisher": "drew-thompson",
     "repository": {
         "url": "https://github.com/drew-thompson/segment"
