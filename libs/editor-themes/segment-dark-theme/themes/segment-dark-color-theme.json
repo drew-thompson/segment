@@ -30,15 +30,33 @@
 		"checkbox.foreground": "#F5F6F7",
 		// Editor
 		"editor.background": "#0d2236", // Find shade darker than palette limits
+		// Editor Group
+		"editorGroup.dropBackground": "#435A6F78",
+		"editorGroupHeader.noTabsBackground": "#425A70",
+		"editorGroupHeader.tabsBackground": "#425A70",
+		// Editor Line Number
+		"editorLineNumber.foreground": "#7B8B9A",
+		"editorLineNumber.activeForeground": "#F5F6F7",
+		// Editor Warning
+		"editorWarning.foreground": "#D9822B",
 		// Git Decorations
-		"gitDecoration.addedResourceForeground": "#ff0000",
+		"gitDecoration.addedResourceForeground": "#8ED3B2", // Interpolated between light and base
 		"gitDecoration.untrackedResourceForeground": "#47B881",
 		"gitDecoration.modifiedResourceForeground": "#FBE6A2",
+		// Input
+		"input.background": "#425A70",
+		"input.foreground": "#C7CED4",
+		"input.border": "#234361",
+		// List
+		"list.activeSelectionBackground": "#425A70",
+		"list.dropBackground": "#435A6F78",
+		"list.hoverBackground": "#435A6F78",
+		"list.inactiveSelectionBackground": "#435A6F78",
+		"list.warningForeground": "#D9822B",
 		// Sidebar
 		"sideBarTitle.foreground": "#C7CED4",
 		"sideBar.background": "#234361",
 		"sideBar.border": "#234361",
-		"sideBar.dropBackground": "#ff0000",
 		"sideBar.foreground": "#E4E7EB",
 		"sideBarSectionHeader.background": "#425A70",
 		"sideBarSectionHeader.border": "#234361",
@@ -54,8 +72,8 @@
 		// Tab
 		"tab.activeBackground": "#234361",
 		"tab.inactiveBackground": "#425A70",
-		// Warnings
-		"editorWarning.foreground": "#D9822B",
-		"list.warningForeground": "#D9822B"
+		"tab.activeForeground": "#E4E7EB",
+		"tab.inactiveForeground": "#A6B1BB",
+		"tab.border": "#234361"
 	}
 }
