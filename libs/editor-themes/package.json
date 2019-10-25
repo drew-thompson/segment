@@ -1,9 +1,9 @@
 {
-    "name": "segment-dark-theme",
+    "name": "segment-themes",
     "icon": "segment.png",
-    "displayName": "Segment Dark Theme",
-    "description": "A dark editor theme using Segment.io's color palette.",
-    "version": "1.0.6",
+    "displayName": "Segment Themes",
+    "description": "A package of themes using Segment.io's color palette.",
+    "version": "1.0.0",
     "publisher": "drew-thompson",
     "repository": {
         "url": "https://github.com/drew-thompson/segment"
@@ -20,6 +20,11 @@
                 "label": "Segment Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/segment-dark-color-theme.json"
+            },
+            {
+                "label": "Segment Light",
+                "uiTheme": "vs",
+                "path": "./themes/segment-light-color-theme.json"
             }
         ]
     }

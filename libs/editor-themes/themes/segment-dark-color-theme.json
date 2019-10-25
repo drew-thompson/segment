@@ -68,6 +68,7 @@
 		"scrollbarSlider.hoverBackground": "#425a70da",
 		// Status Bar
 		"statusBar.background": "#47B881",
+		"statusBar.debuggingBackground": "#D9822B",
 		"statusBar.foreground": "#F9F9FB",
 		// Tab
 		"tab.activeBackground": "#234361",
