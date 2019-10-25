@@ -3,7 +3,7 @@
     "icon": "segment.png",
     "displayName": "Segment Themes",
     "description": "A package of themes using Segment.io's color palette.",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "publisher": "drew-thompson",
     "repository": {
         "url": "https://github.com/drew-thompson/segment"

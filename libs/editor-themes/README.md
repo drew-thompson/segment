@@ -1,6 +1,6 @@
 # Segment Dark Theme
 
-A dark theme for vscode using the Segment palette.
+A package of themes for vscode using Segment's palette.
 
 ## Description
 
